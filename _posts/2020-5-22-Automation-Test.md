@@ -1,5 +1,5 @@
 ---
-title: Automation Test
+title: Automation Test 2
 layout: post
 ---
-This is a test to see if I have automation working. Please disregard.
+This is one more test to see if I got this working.
