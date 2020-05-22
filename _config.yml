@@ -30,7 +30,7 @@ twitter_username: jwhamilton_
 github_username:  jwhamilton99
 
 # Build settings
-remove_theme: jwhamilton99/blog-theme
+remote_theme: jwhamilton99/blog-theme
 plugins:
   - jekyll-feed
 
