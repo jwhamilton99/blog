@@ -1,0 +1,5 @@
+---
+title: Hello!
+layout: post
+---
+Hello! I decided to make a blog. I'm not sure how often I'll update here, but it's nice to have. I built this Jekyll theme from scratch as well, so hopefully that holds up. I think there might be a few issues I have to fix, but we'll get there when we get there. In the meantime, let's see how this goes. I can already tell I need to find a better way to send posts to GitHub.
