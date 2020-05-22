@@ -33,6 +33,7 @@ github_username:  jwhamilton99
 remote_theme: jwhamilton99/blog-theme
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
