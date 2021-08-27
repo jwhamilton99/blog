@@ -1,5 +1,5 @@
 ---
-title: The Perfect Ember Mug Hot Chocolate
+title: Ember Mug Hot Chocolate
 author: Me
 layout: post
 date: 2020-12-30
