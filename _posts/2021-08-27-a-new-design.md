@@ -23,7 +23,7 @@ My name is on its own line, on the left column, justified right. It immediately 
 
 My apps are split into the same sections as on the old design, but I split the Miscellaneous page into a few different sections and kept a true Miscellaneous section at the very bottom.
 
-The differentiation for each level of importance took a while to figure out. The main titles are standard **h1** and **h2**s, the project titles are just bold **p**s, links are italicized **p**s, and the descriptions are standard **p**s. However, the more lengthy text such as the project descriptions and About section are slightly darker than the primary color. This helps draw your eye to the seconds instead of the long text, making the layout look less cluttered.
+The differentiation for each level of importance took a while to figure out. The main titles are standard **h1** and **h2**s, the project titles are just bold **p**s, links are italicized **p**s, and the descriptions are standard **p**s. However, the more lengthy text such as the project descriptions and About section are slightly darker than the primary color. This helps draw your eye to the section markers instead of the long text, making the layout look less cluttered.
 
 I also whipped up a quick favicon. It's my initials in iA Writer Mono on a squircle with the same text and background colors as the site. It helps complete the look and makes the design appear finished.
 
