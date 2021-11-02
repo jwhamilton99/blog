@@ -19,11 +19,11 @@ My old design was getting stale and convoluted. I wanted to keep the aesthetic o
 
 I kept the same color scheme as the old design: light text on a dark background with blue link highlights that turn red on hover. I muted the colors a bit, which made them easier on the eyes and gives it a sort of retro vibe. (Fun fact, I was actually inspired by the Metal Gear Solid 3 UI color scheme in a way.)
 
-My name is on its own line, on the left column, justified right. It immediately brings your attention to the fact that this is, indeed, my site. Below that is the same About blurb from the old design. Below that is my contact info, followed by a design and font credit. For the list of my projects, I used the format from my resume: Title, Link, Blurb. One sentence for the blurb, and the most concise title possible.
+My name is on its own line, on the left column, justified right. It immediately brings your attention to the fact that this is, indeed, my site. Below that is the same About section from the old design. Below that is my contact info, followed by a design and font credit. For the list of my projects, I used the format from my resume: Title, Link, Description. One sentence for the description, and the most concise title possible.
 
 My apps are split into the same sections as on the old design, but I split the Miscellaneous page into a few different sections and kept a true Miscellaneous section at the very bottom.
 
-The differentiation for each level of importance took a while to figure out. The main titles are standard **h1** and **h2**s, the project titles are just bold **p**s, links are italicized **p**s, and the descriptions are standard **p**s. However, the more lengthy text such as the project descriptions and About section are slightly darker than the primary color. This helps draw your eye to the section markers instead of the long text, making the layout look less cluttered.
+The differentiation for each level of importance took a while to figure out. The main titles are standard **h1** and **h2**s, the project titles are **h3**s, links are italicized **p**s, and the descriptions are standard **p**s. However, the more lengthy text such as the project descriptions and About section are slightly darker than the primary color. This helps draw your eye to the section markers instead of the long text, making the layout look less cluttered.
 
 I also whipped up a quick favicon. It's my initials in iA Writer Mono on a squircle with the same text and background colors as the site. It helps complete the look and makes the design appear finished.
 
