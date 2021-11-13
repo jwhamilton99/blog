@@ -9,7 +9,7 @@ Hi, I redesigned my site a few weeks ago. I'm only writing about it now, because
 
 **The Font**
 
-I didn't like how Courier looked after a while, so I wanted a cleaner and prettier monospace font. I started with JetBrains Mono, but something didn't sit right for me. Then I experimented with San Francisco Mono, the font used in Xcode, and decided against it for fear the wrath of Apple's legal team. I then was reminded of [iA Writer's custom-made fonts](https://github.com/iaolo/iA-Fonts) that the wonderful folks at iA are letting anyone use.
+I didn't like how Courier looked after a while, so I wanted a cleaner and prettier monospace font. I started with JetBrains Mono, but something didn't sit right for me. Then I experimented with San Francisco Mono (the font used in Xcode), and decided against it for fear of the wrath of Apple's legal team. I then was reminded of [iA Writer's custom-made fonts](https://github.com/iaolo/iA-Fonts) that the wonderful folks at iA are letting anyone use.
 
 So I snagged them, loaded the Mono variant into my CSS, and it looks beautiful. I love it. OK, font and all, I need to talk about this new design.
 
