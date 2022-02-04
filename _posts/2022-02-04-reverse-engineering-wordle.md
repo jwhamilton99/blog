@@ -49,7 +49,7 @@ Every method used in this solver is straight from the game itself, no hacks. If 
 
 <h2><a href='javascript:(function() { if(window.location.host == "www.powerlanguage.co.uk" && window.location.pathname == "/wordle/") { let game = document.body.getElementsByTagName("game-app")[0]; if(game.gameStatus != "IN_PROGRESS") { window.alert("Game is already finished."); return; } game.addLetter(game.solution); game.tileIndex = 5; game.submitGuess(); } else { window.alert("You are currently not on the Wordle website."); } })();'>Wordle Solver</a></h2>
 
-You should be able to right-click and add it to your bookmarks, but if you can't, you can copy that link and paste it into an existing bookmark. Open it on the Wordle page, and it'll solve it for you.
+You should be able to right-click and add it to your bookmarks, but if you can't, you can copy that link and paste it into an existing bookmark. If you can't copy the link, the minified code is [here](https://gist.github.com/jwhamilton99/5573a494c304a088da0672d9d1c7e44d). Open it on the Wordle page, and it'll solve it for you.
 
 Enjoy!
 
