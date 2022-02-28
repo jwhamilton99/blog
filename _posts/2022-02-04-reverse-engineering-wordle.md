@@ -47,7 +47,11 @@ When I originally tried to do this, I tried making an iOS Shortcut by using its 
 
 Every method used in this solver is straight from the game itself, no hacks. If you want the fun sucked out of this worldwide phenomenon, add this link to your bookmarks:
 
-<h2><a href='javascript:(function() { if(window.location.host == "www.powerlanguage.co.uk" && window.location.pathname == "/wordle/") { let game = document.body.getElementsByTagName("game-app")[0]; if(game.gameStatus != "IN_PROGRESS") { window.alert("Game is already finished."); return; } game.addLetter(game.solution); game.tileIndex = 5; game.submitGuess(); } else { window.alert("You are currently not on the Wordle website."); } })();'>Wordle Solver</a></h2>
+<h2><a href='javascript:(function() { if(window.location.host == "www.nytimes.com" && window.location.pathname == "/games/wordle/index.html") { let game = document.body.getElementsByTagName("game-app")[0]; if(game.gameStatus != "IN_PROGRESS") { window.alert("Game is already finished."); return; } game.addLetter(game.solution); game.tileIndex = 5; game.submitGuess(); } else { window.alert("You are currently not on the Wordle website."); } })();'>Wordle Solver</a></h2>
+
+*Update Feb 27, 2022: After the New York Times bought Wordle, the URL for the page has changed. I updated the bookmarklet to reflect this, which is above. If you still want the old URL to work, use the one below.*
+
+<h2><a href='javascript:(function() { if(window.location.host == "www.powerlanguage.co.uk" && window.location.pathname == "/wordle/") { let game = document.body.getElementsByTagName("game-app")[0]; if(game.gameStatus != "IN_PROGRESS") { window.alert("Game is already finished."); return; } game.addLetter(game.solution); game.tileIndex = 5; game.submitGuess(); } else { window.alert("You are currently not on the Wordle website."); } })();'>Wordle Solver (Old)</a></h2>
 
 You should be able to right-click and add it to your bookmarks, but if you can't, you can copy that link and paste it into an existing bookmark. If you can't copy the link, the minified code is [here](https://gist.github.com/jwhamilton99/5573a494c304a088da0672d9d1c7e44d). Open it on the Wordle page, and it'll solve it for you.
 
